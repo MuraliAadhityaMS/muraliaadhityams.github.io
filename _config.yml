@@ -19,12 +19,12 @@ json:
     - dept. of physics
     - indian institute of technology, bombay
     - powai, mumbai, india - 400076
-  contact:
-    phone: +91 94896 33681
-    email: 
-      - muraliaadhi@gmail.com,
-      - muraliaadhitya.ms@monash.edu
-      - muraliaadhitya@iitb.ac.in
+  email:
+    # phone: +91 94896 33681
+    # email: 
+    muraliaadhi@gmail.com: muraliaadhi@gmail.com 
+    muraliaadhitya.ms@monash.edu: muraliaadhitya.ms@monash.edu
+    muraliaadhitya@iitb.ac.in: muraliaadhitya@iitb.ac.in
   # demo: https://hacked-jekyll.netlify.app
   # source: https://github.com/piazzai/hacked-jekyll
   profiles:

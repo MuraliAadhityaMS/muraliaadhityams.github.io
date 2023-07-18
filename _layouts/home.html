@@ -45,6 +45,16 @@ layout: default
     {% endif %}
   </div>
   <div class="block">
+    {% if site.json.email %}
+    <span class="array-key">email</span>
+    <div class="array">
+      {% for i in site.json.email %}
+      <p class="array-attr"><a href="mailto:{{ i | slice: 1 }}" target="_blank">{{ i | slice: 0 }}</a></p>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+  <!-- <div class="block">
     {% if site.json.contact %}
     {% if site.json.contact.first %}
     <p><span class="list-key">contact</span></p>
@@ -57,8 +67,8 @@ layout: default
     <p><span class="key">contact</span><span class="attr">{{ site.json.contact }}</span></p>
     {% endif %}
     {% endif %}
-  </div>
-  <div class="block">
+  </div> -->
+  <!-- <div class="block">
     {% if site.json.demo %}
     {% assign demo = site.json.demo | split: "//" | slice: 1 %}
     <p><span class="key">demo</span><span class="attr"><a href="{{ site.json.demo }}" target="_blank">{{ demo }}</a></span></p>
@@ -67,7 +77,7 @@ layout: default
     {% assign source = site.json.source | split: "github.com/" | slice: 1 %}
     <p><span class="key">source</span><span class="attr"><a href="{{ site.json.source }}" target="_blank">{{ source }}</a></span></p>
     {% endif %}
-  </div>
+  </div> -->
   <div class="block">
     {% if site.json.profiles %}
     <span class="array-key">profiles</span>
