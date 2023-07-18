@@ -12,13 +12,19 @@ json:
   description:
     - hello!
     - i am a phd scholar
-    - with interests in biology, physics and programming
-    - and passionate about badminton and photography
+    - with interests in biology and programming
+    - passionate about badminton and photography
+    - extroverted, energetic and enthusiastic
+  research:
+    - omics 
+    - data integration
+    - machine learning
   cv: assets/murali_aadhitya_m_s.pdf
   address:
     - dept. of physics
     - indian institute of technology, bombay
     - powai, mumbai, india - 400076
+  # contact:
   email:
     # phone: +91 94896 33681
     # email: 
