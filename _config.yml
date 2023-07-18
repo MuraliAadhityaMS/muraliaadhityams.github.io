@@ -1,40 +1,46 @@
 # this is only for search engines, it does not appear in the home
 # as long as the json variables name and description are provided
-title: Hacked Jekyll
-description: Jekyll microtheme that looks like JSON
+title: portfolio
+description: murali aadhitya m s - personal portfolio
 baseurl: ""
-url: https://hacked-jekyll.netlify.app
+url: muraliaadhityams.github.io
 
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  name: Place Holder
+  name: murali aadhitya m s
   description:
-    - Hello!
-    - This tiny website
-    - Looks like json
-  cv: assets/cv.pdf
+    - hello!
+    - i am a phd scholar
+    - with interests in biology, physics and programming
+    - and passionate about badminton and photography
+  cv: assets/mams_cv.pdf
   address:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+    - dept. of physics
+    - indian institute of technology, bombay
+    - powai, mumbai, india - 400076
   contact:
-    office: Foobar Hall 1.23
-    phone: +1 234 567 890
-    email: username@domain.com
-  demo: https://hacked-jekyll.netlify.app
-  source: https://github.com/piazzai/hacked-jekyll
+    phone: +91 94896 33681
+    email: 
+      - muraliaadhi@gmail.com,
+      - muraliaadhitya.ms@monash.edu
+      - muraliaadhitya@iitb.ac.in
+  # demo: https://hacked-jekyll.netlify.app
+  # source: https://github.com/piazzai/hacked-jekyll
   profiles:
-    facebook: https://www.facebook.com
-    twitter: https://twitter.com
-    instagram: https://www.instagram.com
-    linkedin: https://www.linkedin.com
-    stackoverflow: https://stackoverflow.com
-    github: https://github.com
+    # facebook: https://www.facebook.com
+    orcid: https://orcid.org/0000-0003-2473-8467
+    google scholar: https://scholar.google.com/citations?user=BMWhS-QAAAAJ
+    linkedin: https://www.linkedin.com/in/murali-aadhitya-magateshvaren-saras-58098b164/
+    github: https://github.com/muraliaadhityams
+    twitter: https://twitter.com/MuraliAadhitya
+    whatsapp: https://wa.me/9489633681/
+    # instagram: https://www.instagram.com
+    # stackoverflow: https://stackoverflow.com
 
 exclude:
-  - LICENSE
-  - README.md
+  - license
+  - readme.md
 
 plugins:
   - jekyll-seo-tag
