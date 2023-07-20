@@ -64,7 +64,7 @@ layout: default
     <span class="array-key">email</span>
     <div class="array">
       {% for i in site.json.email %}
-      <p class="array-attr"><a href="mailto:{{ i | slice: 1 }}" target="_blank">{{ i | slice: 0 }}</a></p>
+      <p class="array-attr-link"><a href="mailto:{{ i | slice: 1 }}" target="_blank">{{ i | slice: 0 }}</a></p>
       {% endfor %}
     </div>
     {% endif %}
@@ -98,7 +98,7 @@ layout: default
     <span class="array-key">profiles</span>
     <div class="array">
       {% for i in site.json.profiles %}
-      <p class="array-attr"><a href="{{ i | slice: 1 }}" target="_blank">{{ i | slice: 0 }}</a></p>
+      <p class="array-attr-link"><a href="{{ i | slice: 1 }}" target="_blank">{{ i | slice: 0 }}</a></p>
       {% endfor %}
     </div>
     {% endif %}

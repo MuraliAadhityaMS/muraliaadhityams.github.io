@@ -35,7 +35,17 @@
 
 .array-attr {
   margin-left: 1.5rem;
+  &:before {
+    content: '"';
+  }
+  &:after {
+    content: '",';
+  }
+}
 
+.array-attr-link {
+  margin-left: 1.5rem;
+  color: antiquewhite;
   &:before {
     content: '"';
   }
