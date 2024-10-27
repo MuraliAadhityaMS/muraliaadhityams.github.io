@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Murali Aadhitya M S"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Murali Aadhitya M S"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Murali Aadhitya"
-  avatar           : MuraliAadhityaMS.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/img/MuraliAadhityaMS.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Australia"
   email            : muraliaadhi@gmail.com

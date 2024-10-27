@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Murali Aadhitya M S - Personal Portfolio"
-    url: 
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Murali Aadhitya M S - Personal Portfolio"
+    # url: 
+  - title: "About"
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
