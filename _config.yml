@@ -134,13 +134,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url:"mailto:muraliaadhi@gmail.com"
+      url: "mailto:muraliaadhi@gmail.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url:"mailto:muraliaadhi@gmail.com"
+      url: "mailto:muraliaadhi@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url:"mailto:muraliaadhi@gmail.com"
+      url: "mailto:muraliaadhi@gmail.com"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
