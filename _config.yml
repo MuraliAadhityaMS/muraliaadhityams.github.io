@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Murali Aadhitya"
-  avatar           : /assets/img/MuraliAadhityaMS.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/MuraliAadhityaMS.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Australia"
   email            : muraliaadhi@gmail.com
