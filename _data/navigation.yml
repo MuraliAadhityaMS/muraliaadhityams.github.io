@@ -1,12 +1,13 @@
 # main links
 main:
-  # - title: "Murali Aadhitya M S - Personal Portfolio"
-    # url: 
-  - title: "About"
-    url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  # - title: "About"
+    # url: /about/
+
+  - title: "Publications"
+    url: /year-archive/
+  
+  # - title: "Teaching"
+    # url: /collection-archive/
+  
+  - title: "CV"
+    url: /sitemap/
