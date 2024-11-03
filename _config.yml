@@ -119,11 +119,11 @@ author:
       url: "https://scholar.google.com/citations?user=BMWhS-QAAAAJ&hl=en"
     
     - label: "LinkedIn"
-      icon: "fas fa-brands fa-linkedin"
+      icon: "fas fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/murali-aadhitya-magateshvaren-saras-58098b164/"
     
     - label: "Twitter"
-      icon: "fab fa-wa fa-twitter-square"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/MuraliAadhitya"
     
     - label: "GitHub"
@@ -141,7 +141,7 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-wa fa-twitter-square"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/MuraliAadhitya"
     # - label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
@@ -153,7 +153,7 @@ footer:
       icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "LinkedIn"
-      icon: "fab fa-wa fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/murali-aadhitya-magateshvaren-saras-58098b164/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
