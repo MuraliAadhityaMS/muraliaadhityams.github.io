@@ -9,13 +9,13 @@ author_profile: true
 
 **PhD Research Scholar**
 
-IITB-Monash Research Academy | Bombay, India
+IITB-Monash Research Academy, Bombay, India
 
 2022-Present
 
 **M.Tech in Medical Biotechnology**
 
-Indian Institute of Technology Hyderabad | Telangana, India
+Indian Institute of Technology Hyderabad, Telangana, India
 
 2020-2022
 
@@ -24,7 +24,7 @@ Indian Institute of Technology Hyderabad | Telangana, India
 
 **B.Tech in Biotechnology**
 
-National Institute of Technology, Calicut | Kerala, India
+National Institute of Technology, Calicut, Kerala, India
 
 2016-2020
 
