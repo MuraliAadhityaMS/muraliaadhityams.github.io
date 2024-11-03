@@ -6,6 +6,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Published"
+    url: /publications/published
+
   # - title: "Teaching"
     # url: /collection-archive/
   
