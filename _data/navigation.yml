@@ -4,10 +4,10 @@ main:
     # url: /about/
 
   - title: "Publications"
-    url: /year-archive/
+    url: /publications/
   
   # - title: "Teaching"
     # url: /collection-archive/
   
   - title: "CV"
-    url: /sitemap/
+    url: /portfolio/
