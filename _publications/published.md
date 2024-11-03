@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 
-You can also find my articles on 
+You can find my list of published articles at the <a href="{{site.author.googlescholar}}">Google Scholar</a> profile page.
 <!-- You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u> -->
-
 
 
 <!-- ---

@@ -5,4 +5,12 @@ permalink: /cv/vitae
 author_profile: true
 ---
 
-My CV
+# Education
+
+Item 1
+
+# Research
+
+Item 2
+
+# Skills 
