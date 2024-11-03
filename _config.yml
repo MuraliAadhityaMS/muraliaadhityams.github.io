@@ -111,8 +111,8 @@ author:
   bio              : "PhD, Computational Biology, IITB-Monash Research Academy"
   location         : "Australia"
   email            : "muraliaadhitya.ms@monash.edu"
-  # googlescholar    : "https://scholar.google.com/citations?user=BMWhS-QAAAAJ&hl=en"
-  # github           : "MuraliAadhityaMS"
+  googlescholar    : "https://scholar.google.com/citations?user=BMWhS-QAAAAJ&hl=en"
+  github           : "MuraliAadhityaMS"
   links:
     - label: "Google Scholar"
       icon: "fas fa-brands fa-google-scholar"
