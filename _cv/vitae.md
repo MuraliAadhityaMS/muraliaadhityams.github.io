@@ -5,12 +5,12 @@ permalink: /cv/vitae
 author_profile: true
 ---
 
-# Education
+### Education
 
 Item 1
 
-# Research
+## Research
 
 Item 2
 
-# Skills 
+### Skills
