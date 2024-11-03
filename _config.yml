@@ -119,7 +119,7 @@ author:
       url: "https://scholar.google.com/citations?user=BMWhS-QAAAAJ&hl=en"
     
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/murali-aadhitya-magateshvaren-saras-58098b164/"
     
     - label: "Twitter"
