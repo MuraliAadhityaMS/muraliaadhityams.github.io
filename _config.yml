@@ -163,9 +163,9 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - _pages/*
   - files
-  - _publications
+  - _publications/*
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -315,17 +315,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _publications
   - scope:
       path: ""
