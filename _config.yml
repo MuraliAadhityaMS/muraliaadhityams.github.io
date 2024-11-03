@@ -114,32 +114,36 @@ author:
   # github           : "MuraliAadhityaMS"
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-google-scholar"
+      icon: "fas fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=BMWhS-QAAAAJ&hl=en"
-    - label: "Website"
+    
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.linkedin.com/in/murali-aadhitya-magateshvaren-saras-58098b164/"
+    
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      icon: "fab fa-brands fa-x-twitter"
+      url: "https://x.com/MuraliAadhitya"
+    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MuraliAadhityaMS"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    
+    - label: "ORCiD"
+      icon: "fab fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0003-2473-8467"
+    # - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "mailto:muraliaadhi@gmail.com"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fab fa-brands fa-x-twitter"
+      url: "https://x.com/MuraliAadhitya"
+    # - label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
       # url: "mailto:muraliaadhi@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -147,9 +151,9 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-brands fa-linkedin"
+      url:https://www.linkedin.com/in/murali-aadhitya-magateshvaren-saras-58098b164/
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
