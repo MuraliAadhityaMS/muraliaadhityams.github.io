@@ -165,6 +165,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - _publications
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -312,7 +313,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: awards
+      layout: single
       author_profile: true
   # _posts
   - scope:
@@ -325,18 +326,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-        # _publications
+  # _publications
   - scope:
       path: ""
       type: publications
@@ -345,12 +335,3 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
